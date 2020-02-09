@@ -1,0 +1,13 @@
+*.suo
+*.exe
+.vs/*
+ipch
+*/bin
+*/obj
+packages/*
+*.csproj.user
+Debug
+Release
+*/Debug
+*/Release
+*/Data
